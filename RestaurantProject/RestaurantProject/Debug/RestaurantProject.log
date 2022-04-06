@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\RestaurantProject\RestaurantProject\Source.cpp(257,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantProject\RestaurantProject\Source.cpp(505,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\RestaurantProject\RestaurantProject\Source.cpp(520,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RestaurantProject.vcxproj -> C:\Users\User\source\repos\RestaurantProject\Debug\RestaurantProject.exe
